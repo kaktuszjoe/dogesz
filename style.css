@@ -1,0 +1,47 @@
+#fej{
+    background-color: blanchedalmond;
+    max-width: 900px;
+    padding: 15px 0 15px 5px;
+}
+#ez{
+    background-color: goldenrod;
+    float: left;
+    width: 24.99%;
+    padding-left:10px ;
+
+}
+#ez::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+#az{
+    display: block;
+    float: left;
+    width: 24.9999%;
+    background-color: darksalmon;
+    padding-left:10px
+}
+#footer{
+    background-color: burlywood;
+    height: 20px;
+    display: block;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    padding:4px 0 4px 8px;
+}
+#tart{
+    
+    float: left;
+    width: 45%;
+    
+    background-color: white;
+    text-align: justify;
+    padding-left:10px
+
+}
+h1{
+    padding: 20px 0 20px 6px;
+}
+#
